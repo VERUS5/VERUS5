@@ -1,6 +1,59 @@
 ##Hi, I'm Abdullah 
 
-Computer science student at KFU <br/>
+# 👋 Hi, I'm Abdullah Alhasawi
+
+🎓 Computer Science Student @ King Faisal University  
+🔐 Interested in Cybersecurity | 🤖 Artificial Intelligence | 🌐 Computer Networks  
+
+---
+
+## 🧠 About Me
+
+I am a Computer Science student with hands-on experience in computer networks and artificial intelligence, and a strong growing focus on cybersecurity.
+
+Through personal and academic projects — including my graduation project — I have gained practical experience in designing, building, and improving real-world technical systems.
+
+I continuously strengthen my skills through self-learning, lab environments, and project-based experimentation. I am motivated to grow professionally and contribute effectively within dynamic and technically challenging environments.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+- Python
+- C++
+- Java
+- SQL
+
+### 🤖 Artificial Intelligence
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- LangChain
+- CNNs & Transformers
+
+
+### 🌐 Networking & Security
+- Network Fundamentals
+- Linux Environments
+- Basic Security Concepts
+- System-Level Troubleshooting
+
+---
+
+## 🚀 What I'm Working On
+
+- 🎓 Graduation Project  
+- 🔐 Strengthening cybersecurity fundamentals  
+- 🤖 Building AI-based practical systems  
+- 🧪 Expanding lab-based experimentation  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/abdullah-alhasawi-001027253
+ <br/>
 
 
 
