@@ -50,9 +50,7 @@ I continuously strengthen my skills through self-learning, lab environments, and
 
 ---
 
-## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/abdullah-alhasawi-001027253
  <br/>
 
 
